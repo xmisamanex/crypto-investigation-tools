@@ -1,19 +1,44 @@
-# 🕵️ Crypto Investigation Tools
+# 🕵️ crypto-investigation-tools
 
-Este repositório reúne ferramentas, plataformas e recursos úteis para investigação, análise forense e rastreamento de criptoativos (blockchain, DeFi, NFTs). Organizado por categorias, o material é voltado a profissionais de Threat Intelligence, pesquisadores e analistas de segurança.
+Repositório com ferramentas e recursos para investigação de criptoativos e análise forense blockchain.
+
+Este projeto reúne, organiza e categoriza soluções úteis para profissionais e pesquisadores que atuam em:
+
+- 🔎 Investigações on-chain
+- 🧠 Threat Intelligence aplicada ao ecossistema Web3
+- 🧼 Análise de fraudes, scams e mixers
+- 🧰 Visualização de transações e contratos
+- 🎯 Rastreamento de carteiras, tokens e ativos DeFi
 
 ---
 
-## 🔍 Categorias
+## 📂 Estrutura de Categorias
 
-- [Blockchain Forensics](tools/blockchain-forensics.md)
-- [Exploradores e Visualização](tools/explorers.md)
-- [Análise DeFi & NFTs](tools/defi-nft-trackers.md)
-- [Monitoramento de Riscos e Scams](tools/risk-monitoring.md)
-- [Ferramentas Auxiliares](tools/auxiliary-tools.md)
+| Categoria                              | Descrição |
+|----------------------------------------|-----------|
+| `tools/blockchain-forensics.md`        | Ferramentas para análise forense e deanonymization |
+| `tools/explorers.md`                   | Exploradores de blockchain multi-chain e visuais |
+| `tools/defi-nft-trackers.md`           | Ferramentas focadas em tokens, DApps, NFTs e carteiras |
+| `tools/risk-monitoring.md`             | Monitoramento de riscos, scams, honeypots e revogação de permissões |
+| `tools/auxiliary-tools.md`             | Ferramentas auxiliares e técnicas (debug, bytecode, simulação) |
+| `tools/mixers.md`                      | Análise de mixers e anonimização |
+| `tools/crosschain.md`                  | Exploradores de swaps cross-chain e DEXs descentralizados |
+| `resources/`                           | Recursos complementares (em construção) |
 
-## 📚 Recursos Adicionais
+---
 
-- [Artigos e Estudos de Caso](resources/artigos-recomendados.md)
-- [Casos Reais de Investigação](resources/casos-reais-investigados.md)
-- [Links Úteis](resources/links-uteis.md)
+## 📌 Observações
+
+- A maioria das ferramentas aqui listadas oferece ao menos um plano gratuito ou demonstração.
+- Ferramentas comerciais estão devidamente sinalizadas.
+- Este repositório está em constante evolução. Sugestões são bem-vindas!
+
+---
+
+## 📧 Contato
+
+Sinta-se livre para abrir uma issue ou contribuir com novas sugestões.
+
+---
+
+> _Curado com foco em profissionais de investigação, cibersegurança e análise de ameaças digitais no contexto blockchain._
