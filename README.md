@@ -23,7 +23,6 @@ Este projeto reúne, organiza e categoriza soluções úteis para profissionais 
 | `tools/auxiliary-tools.md`             | Ferramentas auxiliares e técnicas (debug, bytecode, simulação) |
 | `tools/mixers.md`                      | Análise de mixers e anonimização |
 | `tools/crosschain.md`                  | Exploradores de swaps cross-chain e DEXs descentralizados |
-| `resources/`                           | Recursos complementares (em construção) |
 
 ---
 
