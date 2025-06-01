@@ -16,7 +16,6 @@ Ferramentas para identificar endereços maliciosos, revogar permissões e invest
 |--------------------|------------------------|-------------|-------------------------------------------------------|-----------|
 | Token Sniffer      | Scanner de tokens      | Gratuito    | [tokensniffer.com](https://tokensniffer.com)         | Detecta honeypots, liquidez travada, código malicioso. |
 | GoPlus Security    | Risco de contrato      | Freemium    | [gopluslabs.io](https://gopluslabs.io)               | Scanner e APIs para tokens e contratos. |
-| RugDoc             | Análise colaborativa   | Gratuito    | [rugdoc.io](https://rugdoc.io)                       | Base sobre projetos fraudulentos e DeFi scams. |
 | Web3 ScamSniper    | Criação suspeita       | Freemium    | [web3scamsniper.io](https://web3scamsniper.io)       | Monitoramento de tokens fraudulentos criados em massa. |
 | Rekt.news          | Relatórios forenses    | Gratuito    | [rekt.news](https://rekt.news)                       | Pós-mortem de ataques em projetos cripto. |
 | EigenPhi           | Ataques MEV / Flashloan| Freemium    | [eigenphi.io](https://eigenphi.io)                   | Detecta ataques sofisticados on-chain. |
