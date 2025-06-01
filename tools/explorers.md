@@ -10,7 +10,7 @@ Plataformas para consultar transações, blocos, contratos e ativos on-chain. In
 | TokenView     | Multi            | Freemium   | [tokenview.com](https://tokenview.com)                         | Explorador gráfico multi-chain com dados detalhados.                     |
 | Blockpath     | Ethereum, BTC    | Freemium   | [blockpath.com](https://www.blockpath.com)                     | Visualização de transações com foco contábil e análise de carteiras.     |
 | OXT           | Bitcoin          | Gratuito   | [oxt.me](https://oxt.me)                                       | Explorador visual com análise de clusters e entidades suspeitas.         |
-| Bitquery      | Ethereum, BSC... | Gratuito   | [explorer.bitquery.io](https://explorer.bitquery.io)           | Plataforma com GraphQL, fluxos de tokens e interações com contratos.     |
+| Bitquery      | Ethereum, BSC... | Gratuito   | [bitquery.io](https://bitquery.io)           | Plataforma com GraphQL, fluxos de tokens e interações com contratos.     |
 | Breadcrumbs   | BTC, ETH, Tokens | Freemium   | [breadcrumbs.app](https://breadcrumbs.app)                     | Rastreamento de fundos, marcação de entidades e exportação de gráficos.  |
 | GraphSense    | BTC, ETH, LTC    | Open Source| [graphsense.github.io](https://graphsense.github.io)           | Visualização forense de transações blockchain.                           |
 | Token Flow    | Ethereum         | Freemium   | [explorer.tokenflow.live](https://explorer.tokenflow.live)     | Rastreamento de transações e interações DeFi.                            |
