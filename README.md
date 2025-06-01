@@ -25,6 +25,21 @@ Este projeto reúne, organiza e categoriza soluções úteis para profissionais 
 | `tools/crosschain.md`                  | Exploradores de swaps cross-chain e DEXs descentralizados |
 
 ---
+## 📚 Recursos de Aprofundamento
+
+Além das ferramentas listadas neste repositório, você pode acessar uma curadoria de links e materiais técnicos no arquivo:
+
+👉 [`resources/recursos-de-aprofundamento.md`](resources/recursos-de-aprofundamento.md)
+
+Inclui:
+- Guias técnicos (Etherscan, TRM Labs)
+- Relatórios de crimes com criptoativos (Chainalysis)
+- Exercícios práticos (Ethernaut, Breadcrumbs)
+- Plataformas de denúncia e visualização de fraudes (Chainabuse, Breadcrumbs)
+
+Recomendamos esses materiais como apoio contínuo a investigações, aprendizado técnico e fortalecimento de boas práticas em inteligência de ameaças.
+
+---
 
 ## 📌 Observações
 
@@ -44,16 +59,4 @@ Sinta-se livre para abrir uma issue ou contribuir com novas sugestões.
 
 ---
 
-## 📚 Recursos de Aprofundamento
 
-Além das ferramentas listadas neste repositório, você pode acessar uma curadoria de links e materiais técnicos no arquivo:
-
-👉 [`resources/recursos-de-aprofundamento.md`](resources/recursos-de-aprofundamento.md)
-
-Inclui:
-- Guias técnicos (Etherscan, TRM Labs)
-- Relatórios de crimes com criptoativos (Chainalysis)
-- Exercícios práticos (Ethernaut, Breadcrumbs)
-- Plataformas de denúncia e visualização de fraudes (Chainabuse, Breadcrumbs)
-
-Recomendamos esses materiais como apoio contínuo a investigações, aprendizado técnico e fortalecimento de boas práticas em inteligência de ameaças.
