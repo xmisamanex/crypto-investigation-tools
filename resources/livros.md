@@ -17,9 +17,6 @@
   Tradução técnica detalhada sobre como o Bitcoin funciona por dentro. Ideal para quem quer estudar segurança e protocolos.
 
 
-- **Blockchain para Negócios** – *William Mougayar*  
-  Livro traduzido com foco nas aplicações estratégicas do blockchain no setor empresarial e financeiro.
-
 ---
 
 ## 🔵 Em Inglês (Complementares)
