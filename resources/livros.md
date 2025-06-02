@@ -16,8 +16,6 @@
 - **Mastering Bitcoin: Desvendando o Bitcoin** – *Andreas M. Antonopoulos*  
   Tradução técnica detalhada sobre como o Bitcoin funciona por dentro. Ideal para quem quer estudar segurança e protocolos.
 
-- **O Livro do Bitcoin** – *Rafael Motta*  
-  Escrito por um autor brasileiro, traz exemplos práticos do uso da criptomoeda no contexto nacional.
 
 - **Blockchain para Negócios** – *William Mougayar*  
   Livro traduzido com foco nas aplicações estratégicas do blockchain no setor empresarial e financeiro.
