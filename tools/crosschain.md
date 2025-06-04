@@ -4,7 +4,7 @@ Ferramentas para análise e visualização de transações entre diferentes bloc
 
 | Ferramenta           | Blockchain     | Tipo       | Link                                       | Descrição |
 |----------------------|----------------|------------|--------------------------------------------|-----------|
-| Chainflip Explorer   | Chainflip      | Gratuito   | [explorer.chainflip.io](https://explorer.chainflip.io) | Monitoramento de swaps cross-chain via Chainflip. |
+| Chainflip Explorer   | Chainflip      | Gratuito   | [chainflip.io](https://chainflip.io) | Monitoramento de swaps cross-chain via Chainflip. |
 | THORChain Explorer   | THORChain      | Gratuito   | [viewblock.io/thorchain](https://viewblock.io/thorchain) | Visualização de transações via protocolo THORChain. |
 | deBridge Finance     | Multi          | Gratuito   | [debridge.finance](https://debridge.finance) | Solução para transferências cross-chain seguras. |
 | Synapse Protocol     | Multi          | Gratuito   | [synapseprotocol.com](https://synapseprotocol.com) | Liquidez e interoperabilidade entre blockchains. |
