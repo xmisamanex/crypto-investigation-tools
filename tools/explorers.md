@@ -15,3 +15,5 @@ Plataformas para consultar transações, blocos, contratos e ativos on-chain. In
 | GraphSense    | BTC, ETH, LTC    | Open Source| [graphsense.github.io](https://graphsense.github.io)           | Visualização forense de transações blockchain.                           |
 | Token Flow    | Ethereum         | Freemium   | [tokenflow.live](https://tokenflow.live)     | Rastreamento de transações e interações DeFi.                            |
 | Amberdata     | Redes EVM        | Freemium   | [docs.amberdata.io](https://docs.amberdata.io)                 | Dashboards institucionais para análise de dados on-chain.                |
+| OKLink        | Multi            | Freemium   | [oklink.com](https://www.oklink.com)                           | Explorador multi-chain com dados, APIs e históricos.                     |
+| Top 100 Bitcoin Addresses | Bitcoin | Gratuito | [bitinfocharts.com/top-100-richest-bitcoin-addresses.html](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html) | Lista atualizada das maiores carteiras em BTC. |
