@@ -16,3 +16,4 @@ Ferramentas para rastrear tokens, atividades DeFi, coleções NFT e empréstimos
 |-------------|----------------|------------|----------------------------------------|-----------|
 | Nansen.ai   | Ethereum, L2s  | Pago       | [nansen.ai](https://www.nansen.ai)     | Tagging institucional, fluxos e análise de carteiras. |
 | Rotki       | Multi-chain    | Open Source| [rotki.com](https://rotki.com)         | Gerenciamento de portfólio com foco em privacidade local. |
+| Step Finance | Solana       | Freemium   | [step.finance](https://step.finance)   | Dashboard DeFi para carteiras e estratégias na Solana. |
