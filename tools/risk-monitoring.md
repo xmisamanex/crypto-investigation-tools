@@ -19,3 +19,6 @@ Ferramentas para identificar endereços maliciosos, revogar permissões e invest
 | Web3 ScamSniper    | Criação suspeita       | Freemium    | [web3scamsniper.io](https://web3scamsniper.io)       | Monitoramento de tokens fraudulentos criados em massa. |
 | Rekt.news          | Relatórios forenses    | Gratuito    | [rekt.news](https://rekt.news)                       | Pós-mortem de ataques em projetos cripto. |
 | EigenPhi           | Ataques MEV / Flashloan| Freemium    | [eigenphi.io](https://eigenphi.io)                   | Detecta ataques sofisticados on-chain. |
+| RugCheck           | Rugpull Scanner        | Gratuito    | [rugcheck.xyz](https://rugcheck.xyz)                 | Verificação em tempo real de contratos suspeitos de scam ou rugpull. |
+| ChainSec           | Segurança de contratos | Gratuito    | [chainsec.io](https://chainsec.io)                   | Incidentes, análises e alertas sobre segurança on-chain. |
+| Crypto Exchange Hacks List | Histórico de hacks | Gratuito | [cryptowisser.com](https://www.cryptowisser.com/crypto-exchange-hacks/) | Lista histórica de hacks em exchanges de criptoativos. |
